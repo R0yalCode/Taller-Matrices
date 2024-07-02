@@ -8,7 +8,7 @@ A continuacion se presentan los 13 ejercicios con matrices, donde en cada nombre
 ### 5. [Generar la matriz inversa]()
 ### 6. [Generar la matriz transpuesta](https://github.com/R0yalCode/Taller-Matrices/blob/main/Matriz_transpuesta.c)
 ### 7. [Generar la matriz simetrica](https://github.com/R0yalCode/Taller-Matrices/blob/main/Matriz_simetrica.c)
-### 8. [Cuantas filas y cuantas columnas tienen una matriz]()
+### 8. [Cuantas filas y cuantas columnas tienen una matriz](https://github.com/R0yalCode/Taller-Matrices/blob/main/Dimension_de_una_matriz.c)
 ### 9. [Suma de matrices](https://github.com/R0yalCode/Taller-Matrices/blob/main/Matrices_suma.c)
 ### 10. [Resta de matrices](https://github.com/R0yalCode/Taller-Matrices/blob/main/Matrices_resta.c)
 ### 11. [Multiplicación de matrices]()
