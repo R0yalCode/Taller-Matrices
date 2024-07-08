@@ -17,4 +17,4 @@ A continuacion se presentan los 13 ejercicios con matrices, donde en cada nombre
 ### 14. [Resultado en binario y Hexadecimal de la suma de una matriz](https://github.com/R0yalCode/Taller-Matrices/blob/main/Decimal_a_Binario.c)
 ### 15. [Ordenamiento burbuja](https://github.com/R0yalCode/Taller-Matrices/blob/main/Ordenamiento_Burbuja.c)
 ### 16. [Ordenamiento por inserción](https://github.com/R0yalCode/Taller-Matrices/blob/main/Ordenamiento_insercion.c)
-### 17. [Ordenamiento de una baraja de cartas]()
+### 17. [Ordenamiento de una baraja de cartas](https://github.com/R0yalCode/Taller-Matrices/blob/main/Baraja_de_cartas_ordenada.c)
