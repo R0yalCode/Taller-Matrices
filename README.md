@@ -14,3 +14,7 @@ A continuacion se presentan los 13 ejercicios con matrices, donde en cada nombre
 ### 11. [Multiplicación de matrices]()
 ### 12. [División de matrices]()
 ### 13. [Potencia de matrices]()
+### 14. [Resultado en binario y Hexadecimal, de la suma de una matriz]()
+### 15. [Ordenamiento burbuja]()
+### 16. [Ordenamiento por inserción]()
+### 17. [Ordenamiento de una baraja de cartas]()
