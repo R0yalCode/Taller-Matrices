@@ -12,7 +12,7 @@ A continuacion se presentan los 13 ejercicios con matrices, donde en cada nombre
 ### 9. [Suma de matrices](https://github.com/R0yalCode/Taller-Matrices/blob/main/Matrices_suma.c)
 ### 10. [Resta de matrices](https://github.com/R0yalCode/Taller-Matrices/blob/main/Matrices_resta.c)
 ### 11. [Multiplicación de matrices](https://github.com/R0yalCode/Taller-Matrices/blob/main/Multiplicacion_Matrices.c)
-### 12. [División de matrices]()
+### 12. [División de matrices](https://github.com/R0yalCode/Taller-Matrices/blob/main/Divisi%C3%B3n_de_matrices.c)
 ### 13. [Potencia de matrices](https://github.com/R0yalCode/Taller-Matrices/blob/main/Potencia_de_una_Matriz.c)
 ### 14. [Resultado en binario y Hexadecimal de la suma de una matriz](https://github.com/R0yalCode/Taller-Matrices/blob/main/Decimal_a_Binario.c)
 ### 15. [Ordenamiento burbuja](https://github.com/R0yalCode/Taller-Matrices/blob/main/Ordenamiento_Burbuja.c)
